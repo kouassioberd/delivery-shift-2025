@@ -30,10 +30,3 @@ class MainActivity : ComponentActivity() {
     }
 }
 
-@Preview(showBackground = true)
-@Composable
-fun GreetingPreview() {
-    DeliveryShift2025Theme {
-        Greeting("Android")
-    }
-}
